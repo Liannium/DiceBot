@@ -5,7 +5,7 @@ from roll import Roll
 
 # loading the token
 file = open('token.txt', 'r')
-token = (file.readline())
+token = (file.readline().strip())
 file.close()
 
 regEx = re.compile("""\((\D*)(\d*)?d(\d+)(\s*(\+|-)\s*(\d+))?\s*(Advantage|advantage|Disadvantage|disadvantage)?\)""")
