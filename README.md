@@ -1,6 +1,6 @@
 # DiceBot
 
-Commands are in the form (XdY) or (with optional parts surronded by brackets) ([label] XdY [+-Z] [Advantage/Disadvantage])
+Commands are in the form (XdY) or (with optional parts surrounded by brackets) ([label] XdY [+-Z] [Advantage/Disadvantage])
 
 For example: <br/>
 user: (4d6)<br/>
