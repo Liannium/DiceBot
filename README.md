@@ -16,3 +16,7 @@ DiceBot: 1d20: 1 = 1 (natural one)<br/>
 The command does not have to have its own message:<br/>
 user: I try to determine if the guard is lying to me (1d20)<br/>
 Dicebot: 1d20: 4 = 4<br/>
+
+This bot can be added to servers by visiting https://discordapp.com/api/oauth2/authorize?client_id=634827162137919508&permissions=67584&scope=bot
+
+if you find any bugs, let me know by messaging me on Discord at MidnightDreary#3593
